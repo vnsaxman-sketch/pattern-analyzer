@@ -243,6 +243,7 @@ function App() {
                 8-Deck Monte Carlo Simulation
               </p>
 	      <p>
+	      <br/>
                 Developed by: Long Nguyen
               </p>
             </div>
